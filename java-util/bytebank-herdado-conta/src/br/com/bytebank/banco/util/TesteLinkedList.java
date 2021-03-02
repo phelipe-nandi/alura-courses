@@ -3,21 +3,25 @@ package br.com.bytebank.banco.util;
 import br.com.bytebank.banco.modelo.Conta;
 import br.com.bytebank.banco.modelo.ContaCorrente;
 
-import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
-public class Teste {
+public class TesteLinkedList {
 
     public static void main(String[] args) {
 
-        //generics
-        ArrayList<Conta> lista = new ArrayList<Conta>();
+        LinkedList<Conta> lista = new LinkedList<Conta>();
 
         ContaCorrente cc1 = new ContaCorrente(111, 222);
         lista.add(cc1);
         ContaCorrente cc2 = new ContaCorrente(333, 444);
         lista.add(cc2);
 
+        System.out.println(lista.getFirst());
+        System.out.println(lista.getLast());
+
         System.out.println("Tamanho: " + lista.size());
+
         Conta ref = lista.get(0);
         System.out.println(ref.getNumero());
 
