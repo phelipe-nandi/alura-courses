@@ -50,9 +50,11 @@ public class TesteLambda {
 
         //lista.sort((c1, c2) -> Integer.compare(c1.getNumero(), c2.getNumero()));
 
-        Comparator<Conta> comp = (Conta c1, Conta c2) -> {
-                return c1.getTitular().getNome().compareTo(c2.getTitular().getNome());
-        };
+//        Comparator<Conta> comp = (Conta c1, Conta c2) -> {
+//                return c1.getTitular().getNome().compareTo(c2.getTitular().getNome());
+//        };
+
+        Comparator<Conta> comp = (c1, c2) -> c1.getTitular().getNome().compareTo(c2.getTitular().getNome());
 
         //lista.sort(comp);
 

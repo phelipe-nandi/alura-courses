@@ -55,6 +55,7 @@ public class TesteOrdenacao {
         //Collections.sort(lista, new NumeroDaContaComparator());
         //Collections.sort(lista); //chama o metodo compareTo da classe Conta
         //Collections.reverse(lista);
+        //Collections.rotate(lista, 5);
 
         for (Conta conta: lista) {
             System.out.println(conta.toString() + " - " + conta.getTitular().getNome());
