@@ -2,19 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9027dc-eef4-4578-bb96-45933cdc8429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contas.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lorem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lorem2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteCopiarArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaFileWriten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/bin/br/com/bytebank/banco/util/TesteOrdenacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/bin/br/com/bytebank/banco/util/TesteOrdenacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteOrdenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-util/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteOrdenacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cc.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objeto.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteSerializacaoDesserializacaoHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteUnicodeEEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/contas.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeituraScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,57 +50,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/alura/java/io/teste" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/com/alura/java/io/teste" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.alura.java.io.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteLeitura2">
-    <configuration name="TesteCopiarArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteCopiarArquivo" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscrita" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteEscritaFileWriten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscritaFileWriten" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TesteSerializacaoDesserializacaoHeranca">
     <configuration name="TesteEscritaPrintStreamPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscritaPrintStreamPrintWriter" />
       <module name="java-io" />
@@ -107,8 +77,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeitura2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura2" />
+    <configuration name="TesteLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteLeituraScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeituraScanner" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteSerializacao" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSerializacaoDesserializacaoHeranca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteSerializacaoDesserializacaoHeranca" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteLeitura2" />
+        <item itemvalue="Application.TesteSerializacaoDesserializacaoHeranca" />
+        <item itemvalue="Application.TesteSerializacao" />
+        <item itemvalue="Application.TesteLeituraScanner" />
         <item itemvalue="Application.TesteEscritaPrintStreamPrintWriter" />
-        <item itemvalue="Application.TesteEscritaFileWriten" />
-        <item itemvalue="Application.TesteCopiarArquivo" />
-        <item itemvalue="Application.TesteEscrita" />
+        <item itemvalue="Application.TesteLeitura" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +160,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
