@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9027dc-eef4-4578-bb96-45933cdc8429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cliente.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objeto.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteSerializacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteSerializacaoDesserializacaoHeranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteUnicodeEEncoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/contas.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeitura2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeitura2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeituraScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/alura/java/io/teste" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
