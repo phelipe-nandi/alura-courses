@@ -1,6 +1,6 @@
 package br.com.alura;
 
-public class TestaCursoComAluno {
+public class TestaBuscaAlunosNoCurso {
 
     public static void main(String[] args) {
 
@@ -18,16 +18,8 @@ public class TestaCursoComAluno {
         javaColecoes.matricula(a2);
         javaColecoes.matricula(a3);
 
-        javaColecoes.getAlunos().forEach(aluno -> System.out.println("Todos os alunos matriculados nesse curso: " + aluno.toString()));
-
-        System.out.println("O aluno " + a1 + " está matriculado?");
-        System.out.println(javaColecoes.estaMatriculado(a1));
-
-        Aluno turini = new Aluno("Rodrigo Turini", 37452);
-        System.out.println("O aluno " + turini + " está matriculado?");
-        System.out.println(javaColecoes.estaMatriculado(turini));
-
-        System.out.println("O a1 é equals ao turini?");
-        System.out.println(a1.equals(turini));
+        System.out.println("Quem é o aluno com mátricula 56724?");
+        Aluno aluno = javaColecoes.buscaMatricula(56724);
+        System.out.println("Aluno: " + aluno);
     }
 }
