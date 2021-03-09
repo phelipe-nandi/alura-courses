@@ -4,12 +4,12 @@
 - [Java e java.util: Coleções, Wrappers e Lambda expressions](https://cursos.alura.com.br/course/java-util-lambdas)
 - [Java e java.io: Streams, Reader e Writers](https://cursos.alura.com.br/course/java-trabalhando-com-io)
 - [Java Collections: Dominando Listas, Sets e Mapas](https://cursos.alura.com.br/course/java-collections)
-
-## Curso em andamento:
 - [Java moderno: Tire proveito dos novos recursos do Java 8](https://cursos.alura.com.br/course/java8-lambdas)
 
-## Cursos para fazer:
+## Curso em andamento:
 - [Refatoração em Java: Boas práticas no seu código](https://cursos.alura.com.br/course/introducao-refatoracao-java)
+
+## Cursos para fazer:
 - [SOLID com Java: Princípios da programação orientada a objetos](https://cursos.alura.com.br/course/solid-orientacao-objetos-java)
 - [Design Patterns em Java I: Introdução às boas práticas de programação](https://cursos.alura.com.br/course/introducao-design-patterns-java)
 - [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)

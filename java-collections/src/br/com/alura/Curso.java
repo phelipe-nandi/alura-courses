@@ -64,11 +64,6 @@ public class Curso {
         return this.alunos.contains(a1);
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(nome, instrutor, aulas, alunos);
-    }
-
     public Aluno buscaMatricula(int i) {
         if (!matriculaAluno.containsKey(i)) {
             throw new NoSuchElementException("Não encontrei esse aluno!");

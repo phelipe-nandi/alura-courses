@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9027dc-eef4-4578-bb96-45933cdc8429" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lorem2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lorem2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeituraScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteLeituraScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteSerializacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/teste/TesteSerializacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeituraScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteLeituraScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/teste/TesteProperties.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/alura/java/io/teste" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-collections" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -44,9 +49,9 @@
       <recent name="br.com.alura.java.io.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteSerializacaoDesserializacaoHeranca">
-    <configuration name="TesteEscritaPrintStreamPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscritaPrintStreamPrintWriter" />
+  <component name="RunManager" selected="Application.TesteLeituraScanner">
+    <configuration name="TesteCopiarArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteCopiarArquivo" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteLeitura" />
+    <configuration name="TesteEscritaPrintStreamPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.java.io.teste.TesteEscritaPrintStreamPrintWriter" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteLeituraScanner" />
+        <item itemvalue="Application.TesteCopiarArquivo" />
         <item itemvalue="Application.TesteSerializacaoDesserializacaoHeranca" />
         <item itemvalue="Application.TesteSerializacao" />
-        <item itemvalue="Application.TesteLeituraScanner" />
         <item itemvalue="Application.TesteEscritaPrintStreamPrintWriter" />
-        <item itemvalue="Application.TesteLeitura" />
       </list>
     </recent_temporary>
   </component>

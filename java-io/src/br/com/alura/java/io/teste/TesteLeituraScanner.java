@@ -18,7 +18,7 @@ public class TesteLeituraScanner {
 
 //            String[] valores = linha.split(",");
 //            System.out.println(Arrays.toString(valores));
-//
+
             Scanner linhaScanner = new Scanner(linha);
             linhaScanner.useLocale(Locale.US);
             linhaScanner.useDelimiter(",");
