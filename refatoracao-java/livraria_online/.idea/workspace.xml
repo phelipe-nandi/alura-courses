@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6711ae1c-2db7-4680-b959-3e9fe9da7408" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../java-8/out/production/java-8/ExemploCursos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-8/out/production/java-8/ExemploCursos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hamcrest-all-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mockito-all-1.10.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/moneta-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/money-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/livraria_online.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Autor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/CalculadoraDeCompra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/CalculadoraFrete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/CarrinhoDeCompras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/CarrinhoDeComprasFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Desconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/FormatadorUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/ISBN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Livraria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Livros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/TipoDeDesconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/TodosLivros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dominio/Validar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/service/ListagemDeLivrosDisponiveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/service/SelecaoDeLivro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/CalculadoraDeCompraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/CarrinhoDeComprasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/ClienteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/DescontoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/FormatadorUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/ISBNTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/LivroTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/LivrosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/dominio/ObjetosParaTestes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/service/ListagemDeLivrosDisponiveisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/caelum/livraria/service/SelecaoDeLivroTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.idea/libraries/org_junit_jupiter_junit_jupiter_5_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/organizador_evento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/resources/descricao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/resources/palestras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/Atividade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/ListaDePalestras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/Palestra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/Sessao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/SessaoDaManha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/SessaoDaTarde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/TempoDeDuracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/dominio/Trilha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../organizador_evento/src/br/com/caelum/eventos/infra/LeitorDePalestras.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pZ3IU4s5FiflmsRmbeRb7p6Lx5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-refatoracao/livraria_online" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.LivroTest">
+    <configuration name="CarrinhoDeComprasTest.calcularValorTotalComFreteSemDescontoParaCompraEnvolvendoApenasUmLivro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="livraria_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.livraria.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.livraria.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dominio.CarrinhoDeComprasTest" />
+      <option name="METHOD_NAME" value="calcularValorTotalComFreteSemDescontoParaCompraEnvolvendoApenasUmLivro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="livraria_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.livraria.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.livraria.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dominio.ClienteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DescontoTest.calcularDescontoOriundoDeFidelidade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="livraria_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.livraria.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.livraria.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dominio.DescontoTest" />
+      <option name="METHOD_NAME" value="calcularDescontoOriundoDeFidelidade" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LivroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="livraria_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.livraria.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.livraria.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dominio.LivroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LivrosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="livraria_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.livraria.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.caelum.livraria.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dominio.LivrosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LivroTest" />
+        <item itemvalue="JUnit.CarrinhoDeComprasTest.calcularValorTotalComFreteSemDescontoParaCompraEnvolvendoApenasUmLivro" />
+        <item itemvalue="JUnit.ClienteTest" />
+        <item itemvalue="JUnit.DescontoTest.calcularDescontoOriundoDeFidelidade" />
+        <item itemvalue="JUnit.LivrosTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6711ae1c-2db7-4680-b959-3e9fe9da7408" name="Default Changelist" comment="" />
+      <created>1615376705878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615376705878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
