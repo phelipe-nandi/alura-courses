@@ -19,4 +19,5 @@ public class Orcamento {
     public int getQuantidadeItens() {
         return quantidadeItens;
     }
+
 }
