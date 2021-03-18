@@ -3,6 +3,7 @@ package br.com.alura.loja;
 import br.com.alura.loja.orcamento.pedido.GeraPedido;
 import br.com.alura.loja.orcamento.pedido.GeraPedidoHandler;
 import br.com.alura.loja.orcamento.pedido.acao.EnviarEmailPedido;
+import br.com.alura.loja.orcamento.pedido.acao.LogDePedido;
 import br.com.alura.loja.orcamento.pedido.acao.SalvarPedidoNoBancoDeDados;
 
 import java.math.BigDecimal;
@@ -18,7 +19,7 @@ public class TestesPedidos {
 
         GeraPedido gerador = new GeraPedido(cliente, valorOrcamento, quantidadeItens);
         GeraPedidoHandler handler = new GeraPedidoHandler(
-                Arrays.asList(new SalvarPedidoNoBancoDeDados(), new EnviarEmailPedido())
+                Arrays.asList(new SalvarPedidoNoBancoDeDados(), new EnviarEmailPedido(), new LogDePedido())
         );
         handler.execute(gerador);
     }
