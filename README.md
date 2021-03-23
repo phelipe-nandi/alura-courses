@@ -8,9 +8,10 @@
 - [Refatoração em Java: Boas práticas no seu código](https://cursos.alura.com.br/course/introducao-refatoracao-java)
 - [SOLID com Java: Princípios da programação orientada a objetos](https://cursos.alura.com.br/course/solid-orientacao-objetos-java)
 - [Design Patterns em Java I: Introdução às boas práticas de programação](https://cursos.alura.com.br/course/introducao-design-patterns-java)
+- [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)
 
 ## Curso em andamento:
-- [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)
+- [IntelliJ IDEA: aumente a sua produtividade em projetos Java](https://www.alura.com.br/curso-online-intellij-idea-truques-para-aumentar-sua-produtividade-em-projetos-java)
 
 ## Cursos para fazer:
 - [Java e JSF I: Sua aplicação web com JSF2](https://cursos.alura.com.br/course/jsf)
