@@ -2,6 +2,7 @@ package br.com.alura.bytebank.visualizador;
 import br.com.alura.bytebank.io.LeitorCSV;
 import br.com.alura.bytebank.model.Pagamento;
 import br.com.alura.bytebank.servico.ServicoPagamento;
+import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.nio.file.NoSuchFileException;
@@ -12,6 +13,8 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class OpcoesPagamento {
+
+    static final Logger logger = Logger.getLogger(OpcoesPagamento.class);
 
     public void mensagemDeBoasVindas() {
         System.out.println("Bem vindo ao Byte Bank");

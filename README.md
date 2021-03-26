@@ -9,11 +9,11 @@
 - [SOLID com Java: Princípios da programação orientada a objetos](https://cursos.alura.com.br/course/solid-orientacao-objetos-java)
 - [Design Patterns em Java I: Introdução às boas práticas de programação](https://cursos.alura.com.br/course/introducao-design-patterns-java)
 - [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)
-
-## Curso em andamento:
 - [IntelliJ IDEA: aumente a sua produtividade em projetos Java](https://www.alura.com.br/curso-online-intellij-idea-truques-para-aumentar-sua-produtividade-em-projetos-java)
 
-## Cursos para fazer:
+## Curso em andamento:
 - [Java e JSF I: Sua aplicação web com JSF2](https://cursos.alura.com.br/course/jsf)
+
+## Cursos para fazer:
 - [Java e JSF 2 - II: Componentes ricos com Primefaces](https://cursos.alura.com.br/course/jsf-primefaces)
 - [Java e JSF 2 - III: Integração com CDI](https://cursos.alura.com.br/course/jsf-cdi)
