@@ -28,4 +28,13 @@ public class Autor {
 		this.id = id;
 	}
 
+	@Override
+	public boolean equals(Object o) {
+		Autor autor = (Autor) o;
+		if(this.id == autor.getId()) {
+			return true;
+		} else {
+			return false;
+		}
+	}
 }

@@ -7,24 +7,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c13ce7-a3df-4bf8-b5a8-b3ad1f609289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/livraria_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/_template.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/resources/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/LogPhaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/RedirectView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/autor.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/autor.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/livro.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/PopulaBanco.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/PopulaBanco.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/livraria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/livraria.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/faces-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/autor.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/autor.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/PopulaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/PopulaBanco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Autor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XHTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -45,12 +64,16 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1qQzo9XirVSWvFuUBMWOyIKB1Oy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -85,15 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -205,11 +226,15 @@
       <option name="presentableId" value="Default" />
       <updated>1617026773876</updated>
       <workItem from="1617026774947" duration="2164000" />
-      <workItem from="1617103843444" duration="9784000" />
+      <workItem from="1617103843444" duration="10339000" />
+      <workItem from="1617190759769" duration="9317000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
