@@ -7,30 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c13ce7-a3df-4bf8-b5a8-b3ad1f609289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/_template.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/resources/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/LogPhaseListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/RedirectView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.faces-2.2.13.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/livraria_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/livraria_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.faces-2.1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/_template.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/_template.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/autor.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/autor.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/livro.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livraria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/livraria.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/faces-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/lib/javax.faces-2.1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/_template.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/_template.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/autor.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/autor.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="XHTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,14 +76,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.faces-2.2.13.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.24827586" />
+    <property name="project.structure.side.proportion" value="0.1243351" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -94,7 +94,14 @@
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PopulaBanco">
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.641">
     <configuration name="PopulaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.caelum.livraria.dao.PopulaBanco" />
       <module name="livraria" />
@@ -130,7 +137,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="0d919915-3995-4890-b78e-33cec5844759" />
+        <option name="BASE_DIRECTORY_NAME" value="d7808112-936d-42f2-b412-8bd4a6f294dc" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -138,7 +145,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="33509" />
+        <option name="DEBUG_PORT" value="40107" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -227,7 +234,9 @@
       <updated>1617026773876</updated>
       <workItem from="1617026774947" duration="2164000" />
       <workItem from="1617103843444" duration="10339000" />
-      <workItem from="1617190759769" duration="9317000" />
+      <workItem from="1617190759769" duration="10991000" />
+      <workItem from="1617276876618" duration="3409000" />
+      <workItem from="1617280459280" duration="6305000" />
     </task>
     <servers />
   </component>

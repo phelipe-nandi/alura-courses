@@ -14,8 +14,8 @@ import br.com.caelum.livraria.util.RedirectView;
 
 import java.util.List;
 
-@ManagedBean
 @ViewScoped
+@ManagedBean
 public class LivroBean {
 
 	private Livro livro = new Livro();
