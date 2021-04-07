@@ -13,6 +13,7 @@ import br.com.caelum.livraria.modelo.Livro;
 import br.com.caelum.livraria.util.RedirectView;
 
 import java.util.List;
+import java.util.Locale;
 
 @ViewScoped
 @ManagedBean
@@ -21,6 +22,7 @@ public class LivroBean {
 	private Livro livro = new Livro();
 	private Integer autorId;
 	private Integer livroId;
+	private List<Livro> livros;
 
 	public Livro getLivro() {
 		return livro;
@@ -35,7 +37,11 @@ public class LivroBean {
 	}
 
 	public List<Livro> getLivros() {
-		return new DAO<Livro>(Livro.class).listaTodos();
+		DAO<Livro> livroDAO = new DAO<>(Livro.class);
+		if(this.livros == null) {
+			this.livros = livroDAO.listaTodos();
+		}
+		return livros;
 	}
 
 	public List<Autor> getAutoresDoLivro() {
@@ -72,11 +78,13 @@ public class LivroBean {
 			return;
 		}
 
+		DAO<Livro> livroDAO = new DAO<>(Livro.class);
 		if(livro.getId() == null) {
-
-			new DAO<Livro>(Livro.class).adiciona(this.livro);
+			livroDAO.adiciona(this.livro);
+			this.livros = livroDAO.listaTodos();
 		} else {
-			new DAO<Livro>(Livro.class).atualiza(this.livro);
+			livroDAO.atualiza(this.livro);
+			this.livros = livroDAO.listaTodos();
 		}
 
 		this.livro = new Livro();
@@ -88,7 +96,9 @@ public class LivroBean {
 
 	public void remover(Livro livro) {
 		System.out.println("Removendo livro");
-		new DAO<Livro>(Livro.class).remove(livro);
+		DAO<Livro> livroDAO = new DAO<>(Livro.class);
+		livroDAO.remove(livro);
+		this.livros = livroDAO.listaTodos();
 	}
 
 	public void removerAutorDoLivro(Autor autor) {
@@ -108,5 +118,26 @@ public class LivroBean {
 
 	public void carregaLivroPelaId() {
 		this.livro = new DAO<Livro>(Livro.class).buscaPorId(livroId);
+	}
+
+	public boolean precoEhMenor(Object valorColuna, Object filtroDigitado, Locale locale) {
+
+		String textoDigitado = (filtroDigitado == null) ? null : filtroDigitado.toString().trim();
+
+		if (textoDigitado == null || textoDigitado.equals("")) {
+			return true;
+		}
+
+		if (valorColuna == null) {
+			return false;
+		}
+
+		try {
+			Double precoDigitado = Double.valueOf(textoDigitado);
+			Double precoColuna = (Double) valorColuna;
+			return precoColuna.compareTo(precoDigitado) < 0;
+		} catch (NumberFormatException e) {
+			return false;
+		}
 	}
 }

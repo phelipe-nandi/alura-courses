@@ -7,9 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c13ce7-a3df-4bf8-b5a8-b3ad1f609289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/primefaces-8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/carousel.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSF-1/livraria-orig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSF-1/livraria-orig/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/all-themes-1.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ring.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/vendas.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/TemaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/VendaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/_template.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/_template.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/livro.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livraria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/livraria.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/_template.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/_template.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/livro.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,13 +120,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,7 +246,8 @@
       <workItem from="1617280459280" duration="6478000" />
       <workItem from="1617621207222" duration="10073000" />
       <workItem from="1617708500658" duration="613000" />
-      <workItem from="1617710211269" duration="7346000" />
+      <workItem from="1617710211269" duration="9447000" />
+      <workItem from="1617794201840" duration="10149000" />
     </task>
     <servers />
   </component>
