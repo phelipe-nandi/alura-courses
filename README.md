@@ -11,10 +11,10 @@
 - [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)
 - [IntelliJ IDEA: aumente a sua produtividade em projetos Java](https://www.alura.com.br/curso-online-intellij-idea-truques-para-aumentar-sua-produtividade-em-projetos-java)
 - [Java e JSF I: Sua aplicação web com JSF2](https://cursos.alura.com.br/course/jsf)
-
-## Curso em andamento:
 - [Java e JSF 2 - II: Componentes ricos com Primefaces](https://cursos.alura.com.br/course/jsf-primefaces)
 
-## Cursos para fazer:
+## Curso em andamento:
 - [Java e JSF 2 - III: Integração com CDI](https://cursos.alura.com.br/course/jsf-cdi)
+
+## Cursos para fazer:
 - [Maven: Gerenciamento de dependências e build de aplicações Java](https://cursos.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java)
