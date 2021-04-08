@@ -7,7 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c13ce7-a3df-4bf8-b5a8-b3ad1f609289" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/weld-servlet-2.3.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/AutorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/LivroDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/tx/GerenciadorDeTransacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/tx/Transacional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/livraria_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/livraria_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LoginBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/TemaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/TemaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/VendaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/VendaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/DAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/JPAUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/JPAUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livraria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/livraria.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/AutorBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LoginBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/TemaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/TemaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/VendaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/VendaBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/DAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/JPAUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/JPAUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/AutorBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LoginBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LoginBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/TemaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/TemaBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/VendaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/VendaBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/JPAUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/JPAUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +49,7 @@
       <list>
         <option value="XHTML File" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -56,7 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/weld-servlet-2.3.3.Final.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,18 +95,19 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1243351" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.caelum.livraria.tx" />
       <recent name="br.com.caelum.livraria.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/WebContent" />
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/WebContent" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.caelum.livraria.util" />
@@ -100,6 +132,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,6 +262,7 @@
       <workItem from="1617708500658" duration="613000" />
       <workItem from="1617710211269" duration="9447000" />
       <workItem from="1617794201840" duration="11250000" />
+      <workItem from="1617882278793" duration="10446000" />
     </task>
     <servers />
   </component>

@@ -1,21 +1,29 @@
 package br.com.caelum.livraria.bean;
 
-import javax.faces.bean.ManagedBean;
-import javax.faces.bean.ViewScoped;
+import javax.faces.view.ViewScoped;
+import javax.inject.Inject;
+import javax.inject.Named;
 
-import br.com.caelum.livraria.dao.DAO;
+import br.com.caelum.livraria.dao.AutorDao;
+import br.com.caelum.livraria.dao.LivroDao;
 import br.com.caelum.livraria.modelo.Autor;
 import br.com.caelum.livraria.modelo.Livro;
+import br.com.caelum.livraria.tx.Transacional;
 import br.com.caelum.livraria.util.RedirectView;
 
+import java.io.Serializable;
 import java.util.List;
 
-@ManagedBean
+@Named
 @ViewScoped
-public class AutorBean {
+public class AutorBean implements Serializable {
 
 	private Autor autor = new Autor();
 	private Integer autorId;
+	@Inject
+	AutorDao autorDao;
+	@Inject
+	LivroDao livroDao;
 
 	public Integer getAutorId() {
 		return autorId;
@@ -30,21 +38,22 @@ public class AutorBean {
 	}
 
 	public List<Autor> getAutores(){
-		return new DAO<Autor>(Autor.class).listaTodos();
+		return this.autorDao.listaTodos();
 	}
 
 	public void carregarAutorPelaId() {
-		this.autor = new DAO<Autor>(Autor.class).buscaPorId(autorId);
+		this.autor = this.autorDao.buscaPorId(autorId);
 	}
 
+	@Transacional
 	public RedirectView gravar() {
 		System.out.println("Gravando autor " + this.autor.getNome());
 
 		if (autor.getId() == null) {
 
-			new DAO<Autor>(Autor.class).adiciona(this.autor);
+			this.autorDao.adiciona(this.autor);
 		} else {
-			new DAO<Autor>(Autor.class).atualiza(this.autor);
+			this.autorDao.atualiza(this.autor);
 		}
 
 		this.autor = new Autor();
@@ -56,14 +65,15 @@ public class AutorBean {
 		this.autor = autor;
 	}
 
+	@Transacional
 	public void remover(Autor autor) {
 		if(!verificaSeExisteAlgumLivroComEsteAutor(autor)) {
-			new DAO<Autor>(Autor.class).remove(autor);
+			this.autorDao.remove(autor);
 		}
 	}
 
 	private boolean verificaSeExisteAlgumLivroComEsteAutor(Autor autor) {
-		List<Livro> livros = new DAO<Livro>(Livro.class).listaTodos();
+		List<Livro> livros = livroDao.listaTodos();
 		for (Livro livro: livros) {
 			if(livro.getAutores().contains(autor)) {
 				System.out.println("Existe um livro com esse Autor");
