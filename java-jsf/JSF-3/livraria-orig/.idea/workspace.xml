@@ -7,76 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c13ce7-a3df-4bf8-b5a8-b3ad1f609289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/artifacts/livraria.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/livraria-maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/bean/AutorBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/bean/LoginBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/bean/TemaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/bean/VendaBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/AutorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/JPAUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/LivroDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/PopulaBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/UsuarioDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/dao/VendaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/modelo/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/modelo/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/modelo/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/modelo/Venda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/tx/GerenciadorDeTransacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/tx/Transacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/util/Autorizador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/util/JSFUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/util/LogPhaseListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/java/br/com/caelum/livraria/util/RedirectView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/_template.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/autor.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/carousel.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/livro.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/login.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/resources/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/ring.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../livraria-maven/src/main/webapp/vendas.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/VendaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/JSFUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/LoginBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/VendaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/bean/VendaBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/dao/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Venda.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/modelo/Venda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/util/Autorizador.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/caelum/livraria/util/Autorizador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LivroBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LoginBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/LoginBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/VendaBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/bean/VendaBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/UsuarioDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/dao/UsuarioDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Venda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/modelo/Venda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/util/Autorizador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/livraria_war_exploded/WEB-INF/classes/br/com/caelum/livraria/util/Autorizador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LivroBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LoginBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/LoginBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/VendaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/bean/VendaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/UsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/dao/UsuarioDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/modelo/Venda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/Autorizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/livraria/util/Autorizador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +224,8 @@
       <workItem from="1617882278793" duration="11117000" />
       <workItem from="1617985470741" duration="341000" />
       <workItem from="1617985848058" duration="2996000" />
-      <workItem from="1617991155770" duration="86000" />
+      <workItem from="1617991155770" duration="249000" />
+      <workItem from="1618227085920" duration="31000" />
     </task>
     <servers />
   </component>

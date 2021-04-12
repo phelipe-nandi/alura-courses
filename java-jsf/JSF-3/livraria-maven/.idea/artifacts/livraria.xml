@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="livraria">
-    <output-path>$PROJECT_DIR$/out/artifacts/livraria</output-path>
-    <root id="root">
-      <element id="module-output" name="livraria-maven" />
-    </root>
-  </artifact>
-</component>
