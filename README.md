@@ -13,6 +13,4 @@
 - [Java e JSF I: Sua aplicação web com JSF2](https://cursos.alura.com.br/course/jsf)
 - [Java e JSF 2 - II: Componentes ricos com Primefaces](https://cursos.alura.com.br/course/jsf-primefaces)
 - [Java e JSF 2 - III: Integração com CDI](https://cursos.alura.com.br/course/jsf-cdi)
-
-## Curso em andamento:
 - [Maven: Gerenciamento de dependências e build de aplicações Java](https://cursos.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java)
